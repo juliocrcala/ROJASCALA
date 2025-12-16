@@ -6,7 +6,7 @@ Las tablas no existen en tu base de datos de Supabase. Necesitas ejecutar el scr
 ## 📋 PASOS A SEGUIR:
 
 ### 1. 🔗 Ir al Panel de Supabase
-Ve a: https://supabase.com/dashboard/project/kyekcfjulzgvziqpyfod
+Ve a: https://supabase.com/dashboard/project/meauxterbqshoxvctkjq
 
 ### 2. 📊 Abrir el Editor SQL
 - En el menú lateral, busca **"SQL Editor"**
